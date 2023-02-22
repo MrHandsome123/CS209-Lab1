@@ -1,14 +1,29 @@
-#Report 1 
-1. $代表目前用户为普通用户非管理员用户
-2. mv 老文件名 新文件名
-3. find *.c
-4. user可读可执行 group可写可执行 other可读可写可执行
-5. 
-![图片](https://user-images.githubusercontent.com/101486329/218982453-a0208121-2d51-4f93-9c21-307e7e982b13.png)
-6. 
-![图片](https://user-images.githubusercontent.com/101486329/218983003-a11e55cc-dd08-4dd7-85df-0b09477ef4b0.png)
-7. 按ctrl+a，然后按x退出
-8. 
-![图片](https://user-images.githubusercontent.com/101486329/218984154-b5321bd6-e512-451c-94e2-9af651708c0c.png)
-9. pdf, 没分
-10. 不允许， 第一次抄袭者与被抄袭者0分，第二次挂科
+# Report 2
+
+1.![图片](https://user-images.githubusercontent.com/101486329/220509644-c3521cb2-133d-4d37-a955-56e3239b6179.png)
+
+![图片](https://user-images.githubusercontent.com/101486329/220509758-7f5ce06d-2429-45f7-8b5e-9ee7c6265e50.png)
+
+2.![图片](https://user-images.githubusercontent.com/101486329/220509823-05f6c42e-d9e1-4755-8a48-6a9ef5353a78.png)
+
+
+![图片](https://user-images.githubusercontent.com/101486329/220509868-21cfcc7d-e0ee-43aa-8529-8bfc52a00632.png)
+
+3.
+        a.由.c文件到.i文件，这个过程叫预处理
+
+        b.由.i文件到.s文件，这个过程叫编译
+
+        c.由.s文件到.o文件，这个过程叫汇编
+
+        d.由.o文件到可执行文件，这个过程叫链接
+4.
+        Windows: .exe文件
+        Linux: ELF 64-bit LSB shared object
+![图片](https://user-images.githubusercontent.com/101486329/220510968-73659956-08cc-42c9-8fcd-304773e6d3ba.png)
+
+5.
+![图片](https://user-images.githubusercontent.com/101486329/220513362-7380ced0-b8d6-4006-a629-9ab734c14815.png)
+
+6.
+        结果应为(4*3)+(4*3)*(4*3)+(4*3) = 168
